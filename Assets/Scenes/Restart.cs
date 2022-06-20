@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class Restart : MonoBehaviour
 {
     public void Restart1(){
-        SceneManager.LoadScene("oyun içi ss");
+        SceneManager.LoadScene("Level1");
     }
 }

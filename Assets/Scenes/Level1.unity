@@ -1458,7 +1458,7 @@ GameObject:
   - component: {fileID: 597254280}
   - component: {fileID: 597254282}
   m_Layer: 0
-  m_Name: emong as
+  m_Name: VirtualGuy
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1951,7 +1951,7 @@ GameObject:
   - component: {fileID: 687264374}
   - component: {fileID: 687264375}
   m_Layer: 0
-  m_Name: kaplumbAGA
+  m_Name: kaplumbaga
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4550,7 +4550,7 @@ GameObject:
   - component: {fileID: 1860967064}
   - component: {fileID: 1860967066}
   m_Layer: 0
-  m_Name: trump olin
+  m_Name: tramboline
   m_TagString: Trambolin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

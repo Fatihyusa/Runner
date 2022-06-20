@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class rstrt : MonoBehaviour
 {
     public void Restart1(){
-        SceneManager.LoadScene("oyun içi 3");
+        SceneManager.LoadScene("Level3");
     }
 }
